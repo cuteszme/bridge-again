@@ -534,7 +534,7 @@ Widget build(BuildContext context) {
               ),
             ),
             // Use a fixed height for the quiz content area
-            Container(
+            SizedBox(
               height: MediaQuery.of(context).size.height - 200, // Adjust as needed
               child: Column(
                 children: [

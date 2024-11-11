@@ -1,0 +1,18 @@
+{
+    "greetings": {
+        "baybayin": ["ᜄᜓᜄ᜔ ᜃᜓᜄ᜔", "ᜄᜓᜄ᜔ ᜉᜓᜌ᜔"],
+        "roman": ["Hello!", "Hi there!"]
+    },
+    "farewells": {
+        "baybayin": ["ᜉᜓᜌ᜔ ᜏᜌ᜔", "ᜉᜓᜌ᜔ ᜐᜓᜉ᜔"],
+        "roman": ["Goodbye!", "See you later!"]
+    },
+    "how_are_you": {
+        "baybayin": ["ᜅ᜔ᜉᜓᜌ᜔ ᜃᜓᜄ᜔?", "ᜇᜓᜇ᜔ᜌ᜔ ᜃᜓᜄ᜔?"],
+        "roman": ["How are you?", "How's it going?"]
+    },
+    "default": {
+        "baybayin": ["ᜐ᜔ᜆᜓᜉ᜔ ᜆᜓᜏ᜔", "ᜐ᜔ᜆᜓᜉ᜔ ᜉᜓᜌ᜔"],
+        "roman": ["I'm sorry, I didn't understand that.", "Can you rephrase that?"]
+    }
+}
